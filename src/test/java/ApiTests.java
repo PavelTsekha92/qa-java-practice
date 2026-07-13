@@ -48,4 +48,4 @@ public class ApiTests {
             assertEquals(pet.name, responsePet.name);
             assertEquals(pet.status, responsePet.status);
     }
-}
+}// Изменение для создания коммита в ветке
